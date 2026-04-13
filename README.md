@@ -1,4 +1,4 @@
-# Manvendra Swarnim Singh
+
 <p align = "center">
   <img src = "StatementsGif.gif" width = "350"/>
 </p>
