@@ -3,6 +3,7 @@
   <img src = "StatementsGif.gif" width = "350"/>
 </h3>
 
+
 <p align="center">
   <a href="https://github.com/manvendra-geek">
     <img src="https://komarev.com/ghpvc/?username=manvendra-geek&label=Profile%20views&color=0e75b6&style=flat" />
@@ -24,23 +25,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,mysql,git" />
 </p>
-
----
-
-## 🎬 Featured Animation
-<p align="center">
-  <img src="./demo.gif" width="600"/>
-</p>
-
----
-
-## 🚀 Projects
-### 🔹 Task Management System
-- CRUD-based task tracking app  
-- Role-based authentication  
-- Built with **Django, MySQL**  
-
-🔗 [View Project](https://github.com/manvendra-geek)
 
 ---
 
