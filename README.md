@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manvendra Swarnim Singh</h1>
-<h3 align="center">Full Stack Developer | Python | Django | Problem Solver</h3>
+<h3 align="center">
+  <img src = "StatementsGif.gif" width = "350"/>
+</h3>
 
 <p align="center">
   <a href="https://github.com/manvendra-geek">
