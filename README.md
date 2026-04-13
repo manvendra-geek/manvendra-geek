@@ -19,6 +19,11 @@
 - 🧠 Strong in **DBMS, SQL (500+ queries)**
 - 🎯 Goal: Become a **Software Engineer**
 
+## Think Like Me
+<p align = "center">
+<img src = "AnimationGithub.gif" width = "350"/>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
