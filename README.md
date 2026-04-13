@@ -21,7 +21,7 @@
 - 🧠 Strong in **DBMS, SQL (500+ queries)**
 - 🎯 Goal: Become a **Software Engineer**
 
-## 🧠💻
+## 🧠Think
 <p align = "center">
 <img src = "AnimationGithub.gif" width = "350"/>
 </p>
