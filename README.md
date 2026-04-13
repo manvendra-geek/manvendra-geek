@@ -9,13 +9,13 @@
     <img src="https://komarev.com/ghpvc/?username=manvendra-geek&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
----
+
 
 ## 🧠💻
 <p align = "center">
 <img src = "AnimationGithub.gif" width = "350"/>
 </p>
----
+
 
 ## 🚀 About Me
 - 🔭 Working on **Full Stack Web Development**
